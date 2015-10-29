@@ -1,0 +1,426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sig",
+				"SignUpForm"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/newsletter/views.py",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango/settings.py",
+			"settings":
+			{
+				"buffer_size": 2698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/newsletter/models.py",
+			"settings":
+			{
+				"buffer_size": 393,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/newsletter/admin.py",
+			"settings":
+			{
+				"buffer_size": 311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/newsletter/forms.py",
+			"settings":
+			{
+				"buffer_size": 461,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/patrick/Djangotutorial/src",
+		"/Users/patrick/Djangotutorial/src/newsletter",
+		"/Users/patrick/Djangotutorial/src/templates",
+		"/Users/patrick/Djangotutorial/src/trydjango"
+	],
+	"file_history":
+	[
+		"/Users/patrick/Djangotutorial/src/trydjango/urls.py",
+		"/Users/patrick/Djangotutorial/src/templates/home.html",
+		"/Users/patrick/Djangotutorial/src/newsletter/templates/home.html",
+		"/Users/patrick/Selenium/fptfcopy.py",
+		"/Users/patrick/Selenium/navigate.py",
+		"/Users/patrick/Sites/tests/interpreter_config.json",
+		"/Users/patrick/Sites/tests/updatedtests/python/fptf.py",
+		"/Users/patrick/Sites/tests/requirements.txt",
+		"/Users/patrick/Sites/website/funds/manager/views.py",
+		"/Users/patrick/Downloads/User-2015-07-28.json",
+		"/Users/patrick/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/patrick/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/patrick/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fsm_",
+			"revisions.py",
+			"test",
+			"CashActivityEmail.email_log",
+			"api.py",
+			"\nREVIEW_STATUS_PROCESSED\n",
+			"'api.py' ",
+			"'REVIEW_STATUS_PROCESSED' ",
+			"'/api'\n",
+			"/api/investors",
+			"REVIEW_STATUS_PROCESSED",
+			"/variables",
+			"/variablesa",
+			"<<",
+			"\",\n",
+			"\"\",\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/newsletter/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/trydjango/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1083,
+								1083
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 46.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/newsletter/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/newsletter/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/newsletter/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								376,
+								376
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Django.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
