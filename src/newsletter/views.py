@@ -4,7 +4,7 @@ from django.shortcuts import render
 def home(request):
 		title = 'welcome'
 		if request.user.is_authenticated():
-			title = "poop  %s" %(request.user)
+			title = "Current user is %s" %(request.user)
 
 		context = {
 				"template_title": title,

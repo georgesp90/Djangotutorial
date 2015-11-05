@@ -7,7 +7,7 @@ class SignUpForm(forms.ModelForm):
 		class Meta:
 				model = SignUp
 				fields = ['full_name','email']
-				### exclude = [] use sparingly 
+				### exclude = [''] use sparingly 
 
 		def clean_email(self):
 			email = self.cleaned_data.get('email')
@@ -16,3 +16,10 @@ class SignUpForm(forms.ModelForm):
 			if not extension == "co":
 					raise forms.ValidationError("pls use a viald email address yo")
 			return email
+
+
+
+			def clean_full_name(self):
+				full_name = self.cleaned_data.get('full_name')
+
+				return full_name
