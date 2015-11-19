@@ -1,1 +1,21 @@
 <h1>{{ template_title }}</h1>
+
+{{ request.user }}
+
+<form method='POST' action=''>{% csrf_token %}
+	<div class="form-group">
+		<label for="{{form.full_name.id_for_label}}">{{form.full_name.label}}</label>
+		{{ form.full_name}}
+	</div>
+	<div class="form-group">
+		<label for="{{form.email.id_for_label}}">{{form.email.label}}</label>
+		{{ form.email}}
+	</div>
+	{% if form.errors %}
+	<div class="errors">
+		{{ form.errors }}
+	</div>
+	{% endif %}
+<input type='submit' value='Sign Up'/>
+
+</form>
